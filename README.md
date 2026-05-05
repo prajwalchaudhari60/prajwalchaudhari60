@@ -10,18 +10,17 @@
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prajwal-chaudhari-55190a261)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prajwal-chaudhari-55190a261)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-00BFFF?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://prajwalchaudhari60.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-00C9A7?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://prajwalchaudhari60.github.io/Portfolio/)
 
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge\&logo=upwork\&logoColor=white)](https://www.upwork.com/freelancers/~01339ac1b188dfd63f)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge\&logo=upwork\&logoColor=white)](https://www.upwork.com/freelancers/~01339ac1b188dfd63f)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/prajwalchaudhari60)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-24292F?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/prajwalchaudhari60)
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:yourmail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:yourmail@gmail.com)
 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/_prajwal_.33)
-
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-FF0069?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/_prajwal_.33)
 
 
 ---
