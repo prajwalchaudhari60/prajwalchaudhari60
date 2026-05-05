@@ -89,7 +89,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=prajwalchaudhari60\&show_icons=true\&theme=tokyonight)
+![Stats]([https://github-readme-stats.vercel.app/api?username=prajwalchaudhari60\&show_icons=true\&theme=tokyonight](https://github.com/prajwalchaudhari60))
 
 ---
 
