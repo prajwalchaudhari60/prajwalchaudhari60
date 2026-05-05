@@ -20,6 +20,9 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:yourmail@gmail.com)
 
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/_prajwal_.33)
+
+
 
 ---
 
