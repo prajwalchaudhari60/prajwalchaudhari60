@@ -10,13 +10,13 @@
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prajwal%20Chaudhari-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prajwal-chaudhari-55190a261)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prajwal-chaudhari-55190a261)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-black?logo=google-chrome\&logoColor=white)](https://prajwalchaudhari60.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00A8E8?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://prajwalchaudhari60.github.io/Portfolio/)
 
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-green?logo=upwork\&logoColor=white)](https://www.upwork.com/freelancers/~01339ac1b188dfd63f)
+[![Upwork](https://img.shields.io/badge/UPWORK-6FDA44?style=for-the-badge\&logo=upwork\&logoColor=white)](https://www.upwork.com/freelancers/~01339ac1b188dfd63f)
 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?logo=instagram\&logoColor=white)](https://www.instagram.com/_prajwal_.33)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/_prajwal_.33)
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/prajwalchaudhari60)
 
