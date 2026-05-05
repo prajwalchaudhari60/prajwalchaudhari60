@@ -10,13 +10,13 @@
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prajwal-chaudhari-55190a261)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/prajwal-chaudhari-55190a261)
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00A8E8?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://prajwalchaudhari60.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-00BFFF?style=for-the-badge)](https://prajwalchaudhari60.github.io/Portfolio/)
 
-[![Upwork](https://img.shields.io/badge/UPWORK-6FDA44?style=for-the-badge\&logo=upwork\&logoColor=white)](https://www.upwork.com/freelancers/~01339ac1b188dfd63f)
+[![Upwork](https://img.shields.io/badge/UPWORK-00C853?style=for-the-badge)](https://www.upwork.com/freelancers/~01339ac1b188dfd63f)
 
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/_prajwal_.33)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge)](mailto:yourmail@gmail.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/prajwalchaudhari60)
 
