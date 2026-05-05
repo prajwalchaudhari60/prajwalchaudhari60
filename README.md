@@ -10,8 +10,16 @@
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prajwal%20Chaudhari-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prajwal-chaudhari-55190a261)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-black?logo=google-chrome\&logoColor=white)](https://prajwalchaudhari60.github.io/Portfolio/)
+
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-green?logo=upwork\&logoColor=white)](https://www.upwork.com/freelancers/~01339ac1b188dfd63f)
+
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?logo=instagram\&logoColor=white)](https://www.instagram.com/_prajwal_.33)
+
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/prajwalchaudhari60)
+
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:yourmail@gmail.com)
 
 ---
