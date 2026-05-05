@@ -82,19 +82,21 @@
 
 ### 🧪 Testing
 
+### 🧪 Testing
+
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-blue?style=for-the-badge)
+
+![Automation Testing](https://img.shields.io/badge/Automation%20Testing-6A5ACD?style=for-the-badge)
+
+![Selenium WebDriver (Python)](https://img.shields.io/badge/Selenium%20WebDriver%20\(Python\)-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
+
+![Postman API Testing](https://img.shields.io/badge/Postman%20API%20Testing-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
 
-![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge\&logo=apache\&logoColor=white)
+![JMeter Performance](https://img.shields.io/badge/JMeter%20Performance-D22128?style=for-the-badge\&logo=apache\&logoColor=white)
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Jira Bug Tracking](https://img.shields.io/badge/Jira%20Bug%20Tracking-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
 
 
 ---
