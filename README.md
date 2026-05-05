@@ -74,6 +74,7 @@
 ### 🔥 Backend & Tools
 
 ![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 
@@ -103,11 +104,6 @@
 
 ---
 
-## 📈 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalchaudhari60\&layout=compact\&theme=tokyonight)
-
----
 
 ## ⚡ Strength
 
