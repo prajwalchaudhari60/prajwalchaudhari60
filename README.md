@@ -22,9 +22,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-FOLLOW%20ME-FF4D9D?style=for-the-badge\&logo=instagram\&logoColor=white\&labelColor=E1306C)](https://www.instagram.com/_prajwal_.33)
 
-
-
-
 ---
 
 ## 👨‍💻 About Me
@@ -83,19 +80,12 @@
 ### 🧪 Testing
 
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-blue)
-
 ![Automation Testing](https://img.shields.io/badge/Automation%20Testing-purple)
-
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-
 ![Oracle SQL](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
-
 ![JMeter](https://img.shields.io/badge/JMeter-D22128)
-
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 
 ---
