@@ -57,7 +57,7 @@
 * Clean UI & responsive layout
 * Built using modern web technologies
 
-👉 [(Add your GitHub link here)](https://prajwalchaudhari60.github.io/HealthCare-Dashboard/)
+👉 https://prajwalchaudhari60.github.io/HealthCare-Dashboard
 
 ---
 
